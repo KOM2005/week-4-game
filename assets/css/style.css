@@ -1,6 +1,6 @@
 /* General Elements*/
 body{
-	background-image: url("images/diamond_background.jpg");
+	background-image: url("../images/diamond_background.jpg");
 	   min-height: 500px;
     /* Set background image to fixed (don't scroll along with the page) */
     background-attachment: fixed;
